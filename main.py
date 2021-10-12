@@ -10,6 +10,6 @@ async def on_ready:
   
 @commands.command():
   async def ping(ctx):
-    print("Pong!")
+    print("Pong!, How are you")
   
 client.run(TOKEN)
